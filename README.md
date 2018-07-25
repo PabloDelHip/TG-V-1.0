@@ -1,2 +1,2 @@
-# TG-V-1.0
-sistema estable de total gym
+# TotalGym-V-1.0
+Primera version de sistema de gym
